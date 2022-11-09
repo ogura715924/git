@@ -6,7 +6,6 @@
 int main()
 {
 	std::cout << "Hello hub World!\n";
-	std::cout << "Hello hub World!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
