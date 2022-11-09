@@ -8,7 +8,6 @@ int main()
 
     std::cout << "Hello rokalhub World!\n";
     std::cout << "Hello rokalhub World!\n";
-    std::cout << "Hello rokalhub World!\n";
 
 }
 
